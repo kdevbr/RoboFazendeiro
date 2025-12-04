@@ -59,7 +59,7 @@ Os gráficos são renderizados no navegador usando JavaScript, consumindo dados 
 
 <img width="1308" height="621" alt="image" src="https://github.com/user-attachments/assets/6317f4cd-7e40-4171-951a-cb4637e39c65" />
 
-<img width="1313" height="618" alt="image" src="https://github.com/user-attachments/assets/71b239f1-121b-4231-9b7b-05ff50c91b91" />
+<img width="1293" height="225" alt="image" src="https://github.com/user-attachments/assets/fc9e5085-1537-4fb9-b2a4-7ff3b19e8ff8" />
 
 Link oficial no gitpages
 
